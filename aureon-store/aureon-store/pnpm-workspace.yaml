@@ -1,4 +1,0 @@
-packages:
-- "artifacts/*"
-onlyBuiltDependencies:
-- esbuild
